@@ -1,0 +1,25 @@
+bnet account can have many accounts
+accounts can only be tied to one bnet account
+accounts can have many characters
+characters can only be tied to one account
+characters can have many items
+many items can be tied to one character
+items can be equiped
+equiped items can be either armor or weapons but not both
+characters can have many quests
+quests can belong to many characters
+quests can be both gather and/or kill quests
+quests also can have rewards
+characters are located on maps
+maps can have only one type of weather
+maps can have many gameobject spawns
+gameobject spawns are tied to one gameobject
+gameobjects can have many spawns
+gameobjects can start many quests
+gameobjects can finish many quests
+gameobjects drops quest items and/or play sounds
+maps can also have many creature spawns
+creature spawns are tied to one creature
+Creatures can hjave many spawns
+creatures can start many quests
+creatures can finish many quests
